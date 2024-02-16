@@ -1,0 +1,18 @@
+2024-02-16 04:53:48,553 - INFO - Invalid parameters request returned HTTP status code: 404
+2024-02-16 04:53:49,480 - INFO - Successful request returned correct data format
+2024-02-16 04:53:49,480 - INFO - Successful request returned correct data format
+2024-02-16 04:53:50,399 - INFO - Successful request returned HTTP status code: 200
+2024-02-16 04:53:50,399 - INFO - Successful request returned HTTP status code: 200
+2024-02-16 04:53:50,399 - INFO - Successful request returned HTTP status code: 200
+2024-02-16 04:54:43,558 - INFO - Invalid parameters request returned HTTP status code: 404
+2024-02-16 04:54:44,517 - INFO - Successful request returned correct data format
+2024-02-16 04:54:44,517 - INFO - Successful request returned correct data format
+2024-02-16 04:54:45,540 - INFO - Successful request returned HTTP status code: 200
+2024-02-16 04:54:45,540 - INFO - Successful request returned HTTP status code: 200
+2024-02-16 04:54:45,540 - INFO - Successful request returned HTTP status code: 200
+2024-02-16 04:56:04,148 - INFO - Test 'test_additional_test' passed.
+2024-02-16 04:56:05,200 - INFO - Test 'test_invalid_parameters_return_correct_data_format' passed. Correct data format for invalid parameters
+2024-02-16 04:56:05,200 - INFO - Test 'test_invalid_parameters_return_correct_data_format' passed. Correct data format for invalid parameters
+2024-02-16 04:56:06,137 - INFO - Test 'test_invalid_parameters_return_correct_http_status' passed. HTTP status code: 404
+2024-02-16 04:56:06,137 - INFO - Test 'test_invalid_parameters_return_correct_http_status' passed. HTTP status code: 404
+2024-02-16 04:56:06,137 - INFO - Test 'test_invalid_parameters_return_correct_http_status' passed. HTTP status code: 404
